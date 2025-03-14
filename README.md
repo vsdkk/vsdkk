@@ -1,5 +1,3 @@
-# 👤 About Me
-
 👋 Hi there! I'm not a professional coder, but I've become captivated by coding and node setup. Gradually learning and improving my skills.
 
 ## 💡 My Skills
